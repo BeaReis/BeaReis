@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BeaReis
 - 👀 I’m interested in learning new languages and having a good time with friends
-- 🌱 I’m currently learning Kotlin, App development adn Japanese
+- 🌱 I’m currently learning Kotlin, App development, Git and Japanese
 
 <!---
 BeaReis/BeaReis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
