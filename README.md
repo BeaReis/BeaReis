@@ -3,8 +3,8 @@
 ##  💫 About me
 
 - 👋 Hi, I’m @BeaReis, a 27y aerospace engineer turned developer!
-- ⚡ I’m interested in learning new languages and creating cool projects.
-- 🌱 I’m currently learning JavaScript, React, NodeJS and Japanese.
+- ⚡ I like solving problems and creating cool interfaces.
+- 🌱 I’m currently learning JavaScript, React and Japanese.
 - 👀 I'm also looking for my first job as a developer!
 - 📫 How to reach me: pcreis.beatriz@gmail.com
 
