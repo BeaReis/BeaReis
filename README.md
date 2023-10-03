@@ -2,7 +2,7 @@
 
 ##  💫 About me
 
-- 👋 Hi, I’m @BeaReis, a 27y aerospace engineer turned developer!
+- 👋 Hi, I’m @BeaReis, a 28y aerospace engineer turned developer!
 - ⚡ I like solving problems and creating cool interfaces.
 - 🌱 I’m currently learning JavaScript, React and Japanese.
 - 📫 How to reach me: pcreis.beatriz@gmail.com
