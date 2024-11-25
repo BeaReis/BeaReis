@@ -1,4 +1,4 @@
-# Hi there! I`m Beatriz Pontes da Costa Reis
+# Hi there! I`m Beatriz Reis
 
 ![ReactJS](https://img.shields.io/badge/ReactJS%20-%2314354C.svg?&style=for-the-badge&logo=react&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
@@ -13,8 +13,8 @@
 
 ##  💫 About me
 
-- 👋 Hi, I’m @BeaReis, a 28y aerospace engineer turned developer!
-- ⚡ I like solving problems and creating cool interfaces.
+- 👋 Hi, I’m @BeaReis, a 29y aerospace engineer turned developer!
+- ⚡ I've been enjoying learning backend and cybersecurity lately.
 - 🌱 I’m currently doing a Master's in Software Engineering at [University of Tartu](https://ut.ee).
 - 📫 How to reach me: beatrizreis.me@gmail.com
 
