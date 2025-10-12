@@ -13,10 +13,8 @@
 
 ##  💫 About me
 
-- 👋 Hi, I’m @BeaReis, a 29y aerospace engineer turned developer!
+- 👋 Hi, I’m @BeaReis, a 30y aerospace engineer turned software engineer!
 - ⚡ I've been enjoying learning backend and cybersecurity lately.
-- 🌱 I’m currently doing a Master's in Software Engineering at [University of Tartu](https://ut.ee).
-- 📫 How to reach me: beatrizreis.me@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeaReis&layout=compact)](https://github.com/BeaReis/github-readme-stats)
 
